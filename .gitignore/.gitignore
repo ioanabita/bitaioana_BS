@@ -6,7 +6,7 @@ int binarysearch( char start, char sfarsit,char k)
 {
     int mijloc;
     mijloc=start+(sfarsit-start)/2;
-    if (v[mijloc]=k);
+    if (v[mijloc]==k);
         return 1;
 
 
